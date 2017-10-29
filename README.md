@@ -1,5 +1,5 @@
 # cselabs
-**consider power failure , baby** 🔌👻
+**watch out for power failure , baby** 🔌👻
 
 |LabNum|     Topic      |
 |------|----------------|
