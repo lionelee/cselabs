@@ -1,10 +1,5 @@
-# cselabs
-**watch out for power failure , baby** 🔌👻
+# lab5
 
-|LabNum|     Topic      |
-|------|----------------|
-|Lab1 | Inode Manager	  |
-|Lab2 | Basic File Server|
-|Lab3 | RPC           	|  
-|Lab4 | Lock Server     |
-|Lab5 | Log-based Version Control|
+*copied files from lab4*  
+*slove conflicts in yfs_client.h/.cc, fuse.cc, inode_manager.cc*
+
