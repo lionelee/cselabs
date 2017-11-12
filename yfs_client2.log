@@ -1,0 +1,1 @@
+Usage: yfs_client <mountpoint> <port-extent-server> <port-lock-server> <user-cerficiate-file>
