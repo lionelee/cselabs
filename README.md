@@ -4,4 +4,4 @@
 *slove conflicts in yfs_client.h/.cc, inode_manager.cc, fuse.cc*  
 *modified extent_client.h/.cc, extent_server.h/.cc, extent_protocol.h, extent_smain.cc*  
 *modified yfs_client.h/.cc, inode_manager.h/.cc, fuse.cc*
-
+*save copies of each inode for each version, use dallying to reduce disk waste*
