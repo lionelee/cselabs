@@ -8,3 +8,4 @@
 |Lab3 | RPC           	|  
 |Lab4 | Lock Server     |
 |Lab5 | Log-based Version Control|
+|Lab6 | Paxos Protocol  |
